@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "1",
+      "name": "Engine ",
+      "pic":"https://www.motorcyclevalley.com/images/dictionary/motorcycle-engine.jpg",
+      "description": "A motorcycle engine is an engine that powers a motorcycle. Motorcycle engines are typically two-stroke or four-stroke internal combustion engines, but other engine types, such as Wankels and electric motors, have been used"
+    },
+    {
+      "_id": "2",
+      "name": "Cooling System.",
+      "pic":"https://1flqxx3cgz4c42yyn95uy6z4-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Radiator-IN.png",
+      "description": "The system was used extensively on GSXR model bikes from 1985 through 1992. Suzuki continued to use the system in its GSF (Bandit) and GSX (GSX-F, GSX1400, Inazuma) lines until the 2006 model-year and DR650 from 1990 to present. Engines using the SACS system were generally regarded as being very durable."
+    },
+    {
+      "_id": "3",
+      "name": "Cylinders",
+      "pic":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Blumfield_V-twin_motorcycle_engine.jpg",
+      "description": "Although some mopeds, such as the VéloSoleX, had friction drive to the front tire, a motorcycle engine normally drives the rear wheel, power being sent to the driven wheel by belt, chain or shaft."
+    },
+    {
+      "_id": "4",
+      "name": "Crankshaft.",
+      "pic":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Crankshaftrendering.png",
+      "description": "A crankshaft is a mechanical component used by in a piston engine to convert the reciprocating motion into rotational motion. The crankshaft is a rotating shaft containing one or more crankpins,[1] that are driven by the pistons via the connecting rods."
+    },
+    {
+      "_id": "5",
+      "name": "Spark Plugs",
+      "pic":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/67d2scd.jpg/220px-67d2scd.jpg",
+      "description": "A spark plug (sometimes, in British English, a sparking plug,[1] and, colloquially, a plug) is a device for delivering electric current from an ignition system to the combustion chamber of a spark-ignition engine to ignite the compressed fuel/air mixture by an electric spark, while containing combustion pressure within the engine."
+    },
+    {
+      "_id": "6",
+      "name": "Connecting Rods.",
+      "pic":"https://3.bp.blogspot.com/-bL3CcuikEjQ/XoRPLn1dCAI/AAAAAAAACJ8/C6oyCeJHAFEhSuDMZEyNJVrXrbfPmivgACLcBGAsYHQ/s1600/connecting%2Brod%2Bcrankshaft%2Bassembly.JPG",
+      "description": "A connecting rod, also called a 'con rod',[1][2][3] is the part of a piston engine which connects the piston to the crankshaft. Together with the crank, the connecting rod converts the reciprocating motion of the piston into the rotation of the crankshaft."
+    }
+  ]

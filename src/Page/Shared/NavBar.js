@@ -23,12 +23,6 @@ const NavBar = () => {
       <li>
         <Link to="/team">Our Team</Link>
       </li>
-      <li>
-        <Link to="/opportunities">Carries Opportunities</Link>
-      </li>
-      <li>
-        <Link to="/socialLinks">Social Media Links</Link>
-      </li>
     </>
   );
   return (
@@ -62,9 +56,6 @@ const NavBar = () => {
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal p-0">{menuItem}</ul>
-      </div>
-      <div className="navbar-end">
-        <a className="btn">Get started</a>
       </div>
     </div>
   );
