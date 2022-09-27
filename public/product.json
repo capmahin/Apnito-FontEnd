@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "1",
+      "name": "Asus ROG Strix G15 G512LI",
+      "img": "https://www.notebookcheck.net/uploads/tx_nbc2/oasahxv162owufac_setting_000_1_90_end_1000.jpg",
+      "description": "Intel Core i7-10750H 6 x 2.6 - 5 GHz, Comet Lake-H",
+      "price": "1100 USD"
+    },
+    {
+      "_id": "2",
+      "name": "Asus ROG Strix Scar 17 SE",
+      "img": "https://mcsolution.com.bd/wp-content/uploads/2022/05/ASUS-ROG-Strix-Scar-17-SE-Price-in-Bangladesh.webp",
+      "description": "12th Gen Intel® Core™ i9-12950HX Processor 2.3 GHz 30M Cache, up to 5.0 GHz, 16 cores: 8 P-cores and 8 E-cores",
+      "price": "1200 USD"
+    },
+    {
+      "_id": "3",
+      "name": "Asus ROG Strix G15 G512L-VHN146T ",
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-strix-g15-g513ie/rog-strix-g15-g513ie-03-500x500.jpg",
+      "description": "Intel® Core™ i7-10750H Processor",
+      "price": "900 USD"
+    },
+    {
+      "_id": "4",
+      "name": "Asus ROG Strix GL504GM-ES070T",
+      "img": "https://www.notebookcheck.net/uploads/tx_nbc2/csm_GL504_Hero_Cam05Lighting_v1_740f45a0ab_03.jpg",
+      "description": "Intel Core i7-8750H 6 x 2.2 - 4.1 GHz, Coffee Lake- ",
+      "price": "1110 USD"
+    },
+    {
+      "_id": "5",
+      "name": "ROG Strix G15 (2022) G513 ",
+      "img": "https://dlcdnwebimgs.asus.com/files/media/8B74E7EE-B66A-4420-894E-3C3B980312EE/v2/img/design/color/strix-g-2022-pink.png",
+      "description": "AMD Ryzen™ 9 6900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.9 GHz max boost)",
+      "price": "1200 USD"
+    },
+    {
+      "_id": "6",
+      "name": "2019 ASUS ROG ",
+      "img": "https://m.media-amazon.com/images/I/51ZOFgc-4yL._AC_SL1000_.jpg",
+      "description": "AMD Ryzen™ 9 6900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.9 GHz max boost)",
+      "price": "1000 USD"
+    }
+  ]
