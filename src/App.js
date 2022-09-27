@@ -5,6 +5,7 @@ import Home from "./Page/Home/Home";
 import About from "./Page/About/About";
 import Opportunitie from "./Page/Opportunitie/Opportunitie";
 import Contect from "./Page/Contect/Contect";
+import Footer from "./Page/Shared/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           element={<Opportunitie></Opportunitie>}
         ></Route>
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

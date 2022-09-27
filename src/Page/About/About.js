@@ -3,8 +3,10 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <h1>About Us</h1>
-      <p>
+      <h1 className="text-primary text-center font-bold uppercase text-4xl p-4">
+        About Us
+      </h1>
+      <p className="text-xl">
         Computer mania Ltd is one of the top system integrator partners offering
         an entire range of IT integrated products and services. Incorporated in
         the year 1995, BRIPL has traversed an enriching journey of more than a
