@@ -5,6 +5,7 @@ import CarriesOpportunities from "./CarriesOpportunities";
 import Clinets from "./Clinets";
 import Products from "./Products";
 import Services from "./Services";
+import Teams from "./Teams";
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Products></Products>
       <CarriesOpportunities></CarriesOpportunities>
       <Clinets></Clinets>
+      <Teams></Teams>
     </div>
   );
 };

@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "1",
+      "name": "Elizarman",
+      "img": "https://personalexcellence.co/files/ceo.jpg",
+      "description": "CEO"
+    },
+    {
+      "_id": "2",
+      "name": "Bartlett",
+      "img": "https://image.cnbcfm.com/api/v1/image/106139275-1568921126945facebookyt.jpg?v=1568922003",
+      "description": "Tech Lead"
+    },
+    {
+      "_id": "3",
+      "name": "Jimenez",
+      "img": "https://media.istockphoto.com/photos/businessman-using-digital-tablet-in-office-corridor-picture-id653783192?k=20&m=653783192&s=612x612&w=0&h=hek5f5VaxCr9lbEqN2klTUXM7_otUIYgmwlt5wNhWnI=",
+      "description": "sales executive"
+    },
+    {
+      "_id": "4",
+      "name": "Lula",
+      "img": "https://www.careergirls.org/wp-content/uploads/2018/03/Industrial_Production_Manager_1920x1080.jpg",
+      "description": "production manager"
+    }
+  ]
