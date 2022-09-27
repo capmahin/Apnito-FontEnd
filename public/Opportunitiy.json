@@ -1,0 +1,20 @@
+[
+    {
+      "_id": "1",
+      "name": "Software Engineer",
+      "img": "https://www.theladders.com/wp-content/uploads/coder_190517-800x450.jpg",
+      "description": " A software engineer is a person who applies the principles of software engineering to design, develop, maintain, test, and evaluate computer software. The term programmer is sometimes used as a synonym, but may also lack connotations of engineering education or skills."
+    },
+    {
+      "_id": "2",
+      "name": "Technical Support",
+      "img": "https://img.freepik.com/premium-vector/technical-support-icon-robotic-hand-customer-help-tech-support_127544-400.jpg?w=2000",
+      "description": "Technical support (abbreviated as tech support) is a call centre type customer service provided by companies to advise and assist registered users with issues concerning their technical products."
+    },
+    {
+      "_id": "3",
+      "name": "Computer Engineer",
+      "img": "https://ftken.unimap.edu.my/images/bachelorpic/computer-eng-salaries-worldwide_md.jpg",
+      "description": "Computer engineering (CoE or CpE) is a branch of electrical engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software.[1] Computer engineers not only require trainings in electronic engineering, software design, and hardware-software integration, "
+    }
+  ]
