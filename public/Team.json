@@ -3,24 +3,28 @@
       "_id": "1",
       "name": "Elizarman",
       "img": "https://personalexcellence.co/files/ceo.jpg",
-      "description": "CEO"
+      "description": "CEO",
+      "description1": "Chief Executive Officer: the main person responsible for managing a company, who is sometimes also the company's president or chairman of the board"
     },
     {
       "_id": "2",
       "name": "Bartlett",
       "img": "https://image.cnbcfm.com/api/v1/image/106139275-1568921126945facebookyt.jpg?v=1568922003",
-      "description": "Tech Lead"
+      "description": "Tech Lead",
+      "description1": "Tech Leads are software engineers who watch over the quality of the software development team's work and ensure the success of the delivered solutions."
     },
     {
       "_id": "3",
       "name": "Jimenez",
       "img": "https://media.istockphoto.com/photos/businessman-using-digital-tablet-in-office-corridor-picture-id653783192?k=20&m=653783192&s=612x612&w=0&h=hek5f5VaxCr9lbEqN2klTUXM7_otUIYgmwlt5wNhWnI=",
-      "description": "sales executive"
+      "description": "Sales executive",
+      "description1": "A Sales Executive is a professional who sets annual sales goals for the company and works towards achieving them with the assistance of the Sales Manager & Sales Associates."
     },
     {
       "_id": "4",
       "name": "Lula",
       "img": "https://www.careergirls.org/wp-content/uploads/2018/03/Industrial_Production_Manager_1920x1080.jpg",
-      "description": "production manager"
+      "description": "Production manager",
+      "description1": "responsible for the technical management, supervision and control of industrial production processes."
     }
   ]
