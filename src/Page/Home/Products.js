@@ -12,10 +12,8 @@ const Products = () => {
   return (
     <div className="my-18">
       <div className="text-center">
-        <h3 className="text-primary text-xl font-bold uppercase">
-          Our Products
-        </h3>
-        <h2 className="text-4xl">Product We Sell</h2>
+        <h3 className="text-black text-xl font-bold uppercase">Our Products</h3>
+        <h2 className="text-4xl text-primary">Product We Sell</h2>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-items-center gap-5 pt-6 px-5 py-5">
         {products.map((product) => (

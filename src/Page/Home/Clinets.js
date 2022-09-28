@@ -12,7 +12,7 @@ const Clinets = () => {
   return (
     <div className="my-18">
       <div className="text-center">
-        <h3 className="text-primary text-xl font-bold uppercase text-4xl">
+        <h3 className="text-primary text-3xl font-bold uppercase ">
           Our Clients Reviews
         </h3>
       </div>
