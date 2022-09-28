@@ -16,7 +16,7 @@ const Clinets = () => {
           Our Clients Reviews
         </h3>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-5 pt-6 px-5 py-5">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-3 pt-6 px-5 py-5">
         {clinets.map((clinet) => (
           <Clinet key={clinet._id} clinet={clinet}></Clinet>
         ))}
