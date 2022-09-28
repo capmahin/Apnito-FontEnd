@@ -7,7 +7,7 @@ const AboutUs = () => {
     navigate("/about");
   };
   return (
-    <div className="hero lg:min-h-screen  sm:min-w-min">
+    <div className="hero py-4 sm:min-w-min">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
           src="https://www.newtechcomputersolutions.com/wp-content/uploads/2018/06/down.jpg"
