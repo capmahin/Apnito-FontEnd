@@ -9,7 +9,9 @@ const CarriesOpportunities = () => {
   return (
     <div
       className="hero min-h-fit"
-      style={{ backgroundImage: `url("https://placeimg.com/1000/800/arch")` }}
+      style={{
+        backgroundImage: `url("https://notebookspec.com/web/wp-content/uploads/2021/01/ROG-2021-Family-website-banner_1920-x-740_Fn.jpg")`,
+      }}
     >
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
