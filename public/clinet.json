@@ -3,48 +3,75 @@
       "_id": "1",
       "name": "Bethany",
       "img": "https://media.istockphoto.com/photos/happy-laughing-man-picture-id544358212?b=1&k=20&m=544358212&s=170667a&w=0&h=e1uHtcDJ7yZCgZtby_XHySquR03Bu-NkMxYMleIUTIQ=",
-      "description":"Good"
+      "description":"Good",
+      "comment":["ASUS has built a reputation for being a really good brand",
+                  "that makes dependable products, and the company's customer service is excellent."]
     },
     {
       "_id": "2",
       "name": "Brandie",
       "img": "https://image.shutterstock.com/image-photo/portrait-happy-fashionable-handsome-man-260nw-600200732.jpg",
-      "description":"Excillent"
+      "description":"Excellent",
+      "comment":[" for the most part. ASUS is one of the biggest laptop makers out there",
+                  "it offers something for every price point."]
     },
     {
       "_id": "3",
       "name": "Mercado",
       "img": "https://image.shutterstock.com/image-photo/portrait-guy-wearing-denim-shirt-260nw-1033291384.jpg",
-      "description":"Very Good"
+      "description":"Very Good",
+      "comment":[" for the most part. ASUS is one of the biggest laptop makers out there",
+                  "it offers something for every price point.",
+                  "ASUS is a reliable brand,"
+                ]
     },
     {
       "_id": "4",
       "name": "Parrish",
       "img": "https://image.shutterstock.com/image-photo/young-caucasian-man-wearing-white-260nw-1571379499.jpg",
-      "description":"Good"
+      "description":"Good",
+      "comment":["for the most part. ASUS is one of the biggest laptop makers out there",
+                  "it offers something for every price point.",
+                  "ASUS is a reliable brand,"
+                ]
     },
     {
       "_id": "5",
       "name": "Christi",
       "img": "https://static.dw.com/image/56330100_101.jpg",
-      "description":"Best"
+      "description":"Best",
+      "comment":[" for the most part. ASUS is one of the biggest laptop makers out there","Asus also has a wider range of laptops with different specs and features.","ASUS is a reliable brand,"
+                ]
     },
     {
       "_id": "6",
       "name": "Jimmie",
       "img": "https://img.freepik.com/free-photo/gorgeous-white-girl-with-long-wavy-hair-chilling-autumn-day-outdoor-portrait-interested-ginger-female-model-with-cup-coffee_197531-11735.jpg?w=2000",
-      "description":"Nice"
+      "description":"Nice",
+      "comment":["for the most part. ASUS is one of the biggest laptop makers out there",
+      "Asus also has a wider range of laptops with different specs and features.",
+      "Ultimately, it comes down to personal preference."
+    ]
     },
     {
       "_id": "7",
       "name": "Jimmiy",
       "img": "https://media.istockphoto.com/photos/beautiful-successful-latin-woman-smiling-picture-id1369508766?b=1&k=20&m=1369508766&s=170667a&w=0&h=xr3pk8VTmDoC9JXzEqMPL_4jZLiyIJWUMzKrBlVQiPI=",
-      "description":"Wanderful"
+      "description":"Wanderful",
+      "comment":[" ASUS is a better choice than Acer.",
+      "Asus also has a wider range of laptops with different specs and features.",
+      "Ultimately, it comes down to personal preference."
+    ]
     },
     {
       "_id": "8",
       "name": "Jimmio",
       "img": "https://static.dw.com/image/47981270_302.jpg",
-      "description":"Excillent"
+      "description":"Excellent",
+      "comment":["ASUS is a better choice than Acer.",
+      "Since ASUS is well-known for its optimized performance with the lowest computer specifications,","Ultimately, it comes down to personal preference."
+      
+     
+    ]
     }
   ]
