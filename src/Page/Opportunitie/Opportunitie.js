@@ -12,7 +12,7 @@ const Opportunitie = () => {
   return (
     <div className="my-18">
       <div className="text-center">
-        <h3 className="text-primary text-xl font-bold uppercase">
+        <h3 className="text-purple-700 text-2xl font-bold uppercase py-4">
           Carries Opportunities
         </h3>
         <h2 className="text-4xl">Opportunities</h2>

@@ -3,7 +3,7 @@ import React from "react";
 const Contect = () => {
   return (
     <div className="text-black my-10">
-      <h1 className="uppercase text-primary text-center text-4xl font-bold">
+      <h1 className="uppercase text-purple-700 text-center text-4xl font-bold">
         Get in touch
       </h1>
       <div className="flex flex-col lg:flex-row justify-evenly my-5 text-center">

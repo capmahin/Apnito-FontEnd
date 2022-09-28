@@ -2,34 +2,68 @@ import React from "react";
 
 const About = () => {
   return (
-    <div>
-      <h1 className="text-primary text-center font-bold uppercase text-4xl p-4">
-        About Us
+    <div className="py-6">
+      <h1 className="text-purple-700 text-center font-bold uppercase text-4xl py-4">
+        About Us!!
       </h1>
-      <p className="text-xl">
-        Computer mania Ltd is one of the top system integrator partners offering
-        an entire range of IT integrated products and services. Incorporated in
-        the year 1995, BRIPL has traversed an enriching journey of more than a
-        decade and has emerged as one of the largest IT Infrastructure Solution
-        provider supporting customers from small and medium businesses to blue
-        chip clients and also providing a specialist service for the educational
-        institutes. BRIPL has extensive experience in delivering high-quality IT
-        Infrastructure services for all kinds of verticals and technology
-        environments. Driven by a customer oriented approach with focus on
-        absolute standards of operational excellence, each experience has made
-        us develop more innovative solutions provider, and has enabled us to
-        understand business, technology and operational elements in great
-        detail. We want to empower our customers to be able to reach their goals
-        easily and live a more fulfilling and productive life. BRIPL
-        professionally managed, process and technology driven, skill based
-        System & Network Integrator, focused in LAN, MAN, WAN, WIRELESS, NETWORK
-        MANAGEMENT, STORAGE, SECURITY AND CONVERGEDVOICEâ€“ DATA-VIDEO, SERVERS,
-        DEKTOP and PHYSICAL SECURITY & SURVEILLANCE Solutions domains. Our
-        highly committed and skilled set of professionals will add value by
-        proposing technically superior and commercially competitive solutions.
-        We are confident to position BRIPL as â€œSingle Stop Enterprise
-        Solutions Providerâ€.
-      </p>
+      <div className="hero py-4">
+        <div className="hero-content flex-col lg:flex-row-reverse">
+          <img
+            src="https://media.suara.com/pictures/970x544/2022/04/13/40904-asus-rog-strix-scar-15-g533z.jpg"
+            className="max-w-lg rounded-lg shadow-2xl"
+          />
+          <div>
+            <h1 className="text-5xl font-bold">OUR MISSION!!</h1>
+            <p className="py-6 text-xl">
+              Unite gamers of diverse backgrounds to achieve their potential
+              together in play. Through innovative technology and exceptional
+              experiences, we can push boundaries to create a world without
+              limits. As a major player in the IT industry, ASUS' corporate
+              mission is to provide innovative IT solutions that empower people
+              and businesses to reach their full potential.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        className="hero "
+        style={{
+          backgroundImage: `url("https://cdn.gsmarena.com/imgroot/news/18/10/asus-rog-phone-wallpapers/-1024x768m/gsmarena_011.jpg")`,
+        }}
+      >
+        <div className="hero-overlay bg-opacity-60"></div>
+        <div className="hero-content text-center text-neutral-content">
+          <div className="max-w-md">
+            <h1 className="mb-5 text-5xl font-bold text-yellow-500">
+              Innovation!!!
+            </h1>
+            <p className="mb-5">
+              Established in 1989, ASUS is a multinational company known for the
+              world's best motherboards and high-quality personal computers,
+              monitors, graphics cards, routers and other technology solutions.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="hero ">
+        <div className="hero-content flex-col lg:flex-row">
+          <img
+            src="https://dlcdnwebimgs.asus.com/gain/A03D9DCF-D601-4C1E-B20E-85AD8DF47788/w750/h470"
+            className="max-w-lg rounded-lg shadow-2xl"
+          />
+          <div>
+            <h1 className="text-5xl font-bold">!!ROG!!</h1>
+            <p className="py-6 text-xl">
+              ROG was founded with the goal of creating the world's most
+              powerful and versatile gaming laptops. Our premium devices elevate
+              gaming experiences with best-in-class displays, top tier graphics
+              and innovative cooling solutions to take performance to new
+              heights.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
